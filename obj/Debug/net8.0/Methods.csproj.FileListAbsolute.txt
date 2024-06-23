@@ -12,3 +12,4 @@ C:\Users\lmasi\OneDrive\Desktop\C# Full Course\.NET C# courses\CsharpProjects\Me
 C:\Users\lmasi\OneDrive\Desktop\C# Full Course\.NET C# courses\CsharpProjects\Methods\obj\Debug\net8.0\Methods.pdb
 C:\Users\lmasi\OneDrive\Desktop\C# Full Course\.NET C# courses\CsharpProjects\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
 C:\Users\lmasi\OneDrive\Desktop\C# Full Course\.NET C# courses\CsharpProjects\Methods\obj\Debug\net8.0\ref\Methods.dll
+C:\Users\lmasi\OneDrive\Desktop\C# Full Course\.NET C# courses\CsharpProjects\Methods\obj\Debug\net8.0\Methods.sourcelink.json
